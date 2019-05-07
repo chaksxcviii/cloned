@@ -1,0 +1,25 @@
+.red{
+    color: rgb(235, 68, 68);
+
+}
+
+.green{
+    color: rgb(80, 206, 80);
+    font-weight: bold;
+}
+
+#crypto-list_previous a, #crypto-list_next a{
+    width: 70px;
+    border-radius: 20px !important;
+}
+
+#crypto-list_info{
+    display: none !important;
+}
+#crypto-list_length{
+    display: none !important;
+}
+
+#crypto-list th{
+    font-size: 14px;
+}
